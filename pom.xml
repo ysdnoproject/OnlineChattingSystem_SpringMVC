@@ -120,6 +120,7 @@
     </dependencies>
     <build>
         <finalName>onlineChattingSystem</finalName>
+        <!--告诉idea需要编译src/main/java下的xml文件-->
         <resources>
             <resource>
                 <directory>src/main/java</directory>

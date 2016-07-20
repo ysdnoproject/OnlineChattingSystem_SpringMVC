@@ -6,6 +6,6 @@
 </head>
 
 <body>
-${user.id}
+<p>测试成功${user.id}</p>
 </body>
 </html>
